@@ -1,0 +1,3 @@
+[submodule "eXo-Easy-Shell"]
+	path = eXo-Easy-Shell
+	url = git@github.com:hbenali/eXo-Easy-Shell.git
